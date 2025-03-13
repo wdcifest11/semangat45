@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+}
+
+.hero .text-wrapper-4 {
+  position: absolute;
+  text-align: center;
+  top: 204px;
+  white-space: nowrap;
+  color: var(--yellow2, #FFFD8C);
+  /* Raleway/regular/h5 */
+  font-family: Raleway;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  /* 133.333% */
+}
